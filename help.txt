@@ -1,0 +1,9 @@
+1 - Initial movement controls are set to 'Up'- up, 'Down'- down, 'Left'- left, 'Right'- right.
+2 - Press 'b' for boss key (an image of the VM comes up).  To exit boss key mode press 'e'.
+3 - Hold 'ctrl_left' and press 's' three times quickly to shrink your snake to just its head.  Your snake should be longer than 15!
+4 - Eating apples gives you 10 points and your snake grows +1.
+5 - Eating the mouse gives you 20 points and your snake grows +2.
+6 - The black squares are obstacles. If the snake hits them, the game ends.  Avoid them!
+7 - Additional info:  a) You CAN'T go through the walls. b) If the snake bites itself the game ends!
+8 - Every 100 points you receive a star, which is shown in the bottom right corner.  In order to win the game you have to achieve 6 stars!
+9 - In case apple is too hard to eat press "m" (cheat). This will move the apple randomly!
